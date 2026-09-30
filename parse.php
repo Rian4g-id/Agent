@@ -402,7 +402,6 @@ require_once __DIR__ . '/class-wp-block-parser-block.php';
  * Required for backward compatibility in WordPress Core.
  */
 require_once __DIR__ . '/class-wp-block-parser-frame.php';
-
 /**
  * WordPress Core Block Registry Handler
  *
